@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseUrl": "./src", //Orientação para importar arquivos
     "target": "es5",
     "lib": [
       "dom",
