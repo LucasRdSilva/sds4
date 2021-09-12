@@ -1,6 +1,6 @@
-import { Seller } from "./seller"
+import { Seller } from "./seller";
 
-export type Sale =  {
+export type Sale = {
     id: number;
     visited: number;
     deals: number;
